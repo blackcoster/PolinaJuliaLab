@@ -20,7 +20,7 @@ public class Main {
             }
         }
 
-        System.out.println("You can use this commands: " + "\n" + "     add {element} - adds an item to your collection");
+        System.out.println("gv vhjjYou can use this commands: " + "\n" + "     add {element} - adds an item to your collection");
         System.out.println("     info - shows type of collection, amount of elements, etc");
         System.out.println("     show - shows all items of collection");
         System.out.println("     remove {element} - deletes this element from your collection");
